@@ -1,0 +1,136 @@
+2026-10-06 18:07:11,148 | INFO    | main | Starting run (details=True, max_pages=None, delay=0.5)
+2026-10-06 18:07:11,149 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 1: https://books.toscrape.com/
+2026-10-06 18:07:36,876 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 1: 20 records (total 20)
+2026-10-06 18:07:36,881 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:08:05,620 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 2: 20 records (total 40)
+2026-10-06 18:08:05,624 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:08:35,063 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 3: 20 records (total 60)
+2026-10-06 18:08:35,066 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:09:05,453 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 4: 20 records (total 80)
+2026-10-06 18:09:05,456 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:09:34,036 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 100
+2026-10-06 18:09:34,038 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 5: 20 records (total 100)
+2026-10-06 18:09:34,041 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:10:04,728 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 6: 20 records (total 120)
+2026-10-06 18:10:04,730 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:10:33,013 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 7: 20 records (total 140)
+2026-10-06 18:10:33,016 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:10:59,521 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 8: 20 records (total 160)
+2026-10-06 18:10:59,525 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 18:11:28,399 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 9: 20 records (total 180)
+2026-10-06 18:11:28,402 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 18:11:54,830 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 200
+2026-10-06 18:11:54,832 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 10: 20 records (total 200)
+2026-10-06 18:11:54,837 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 18:12:21,649 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 11: 20 records (total 220)
+2026-10-06 18:12:21,652 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 18:12:48,787 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 12: 20 records (total 240)
+2026-10-06 18:12:48,789 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 18:13:16,531 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 13: 20 records (total 260)
+2026-10-06 18:13:16,536 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 18:13:42,648 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 14: 20 records (total 280)
+2026-10-06 18:13:42,651 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 18:14:12,854 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 300
+2026-10-06 18:14:12,860 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 15: 20 records (total 300)
+2026-10-06 18:14:12,864 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 18:14:44,701 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 16: 20 records (total 320)
+2026-10-06 18:14:44,704 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 18:15:11,937 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 17: 20 records (total 340)
+2026-10-06 18:15:11,941 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 18:15:41,743 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 18: 20 records (total 360)
+2026-10-06 18:15:41,747 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 18:16:10,212 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 19: 20 records (total 380)
+2026-10-06 18:16:10,216 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 18:16:40,621 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 400
+2026-10-06 18:16:40,624 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 20: 20 records (total 400)
+2026-10-06 18:16:40,631 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 18:17:08,369 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 21: 20 records (total 420)
+2026-10-06 18:17:08,373 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 18:17:31,386 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 22: 20 records (total 440)
+2026-10-06 18:17:31,393 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 18:17:58,036 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 23: 20 records (total 460)
+2026-10-06 18:17:58,040 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 18:18:23,844 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 24: 20 records (total 480)
+2026-10-06 18:18:23,848 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 18:18:54,553 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 500
+2026-10-06 18:18:54,556 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 25: 20 records (total 500)
+2026-10-06 18:18:54,560 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 18:19:26,196 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 26: 20 records (total 520)
+2026-10-06 18:19:26,200 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 18:19:55,081 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 27: 20 records (total 540)
+2026-10-06 18:19:55,086 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 18:20:23,609 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 28: 20 records (total 560)
+2026-10-06 18:20:23,612 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 18:20:48,301 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 29: 20 records (total 580)
+2026-10-06 18:20:48,307 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 18:21:13,201 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 600
+2026-10-06 18:21:13,204 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 30: 20 records (total 600)
+2026-10-06 18:21:13,207 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 18:21:42,597 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 31: 20 records (total 620)
+2026-10-06 18:21:42,602 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 18:22:11,765 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 32: 20 records (total 640)
+2026-10-06 18:22:11,768 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 18:22:41,484 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 33: 20 records (total 660)
+2026-10-06 18:22:41,486 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 18:23:13,519 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 34: 20 records (total 680)
+2026-10-06 18:23:13,522 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 18:23:41,099 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 700
+2026-10-06 18:23:41,103 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 35: 20 records (total 700)
+2026-10-06 18:23:41,106 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 18:24:11,994 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 36: 20 records (total 720)
+2026-10-06 18:24:11,998 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 18:24:36,701 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 37: 20 records (total 740)
+2026-10-06 18:24:36,705 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 18:25:04,704 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 38: 20 records (total 760)
+2026-10-06 18:25:04,707 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 18:25:31,737 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 39: 20 records (total 780)
+2026-10-06 18:25:31,741 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 18:26:00,173 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 800
+2026-10-06 18:26:00,178 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 40: 20 records (total 800)
+2026-10-06 18:26:00,181 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 18:26:30,236 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 41: 20 records (total 820)
+2026-10-06 18:26:30,243 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 18:26:58,499 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 42: 20 records (total 840)
+2026-10-06 18:26:58,503 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 18:27:27,067 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 43: 20 records (total 860)
+2026-10-06 18:27:27,073 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 18:27:54,304 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 44: 20 records (total 880)
+2026-10-06 18:27:54,310 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 18:28:17,958 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 900
+2026-10-06 18:28:17,964 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 45: 20 records (total 900)
+2026-10-06 18:28:17,969 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 18:28:45,298 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 46: 20 records (total 920)
+2026-10-06 18:28:45,306 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 18:29:10,797 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 47: 20 records (total 940)
+2026-10-06 18:29:10,800 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 18:29:36,189 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 48: 20 records (total 960)
+2026-10-06 18:29:36,194 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 18:30:00,360 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 49: 20 records (total 980)
+2026-10-06 18:30:00,363 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 18:30:26,077 | INFO    | scrapers.books_scraper | [Books to Scrape] Detail pages done: 1000
+2026-10-06 18:30:26,080 | INFO    | scrapers.base_scraper | [Books to Scrape] Page 50: 20 records (total 1000)
+2026-10-06 18:30:26,083 | INFO    | main | Books to Scrape: 1000 raw records collected
+2026-10-06 18:30:26,084 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 1: https://quotes.toscrape.com/
+2026-10-06 18:30:28,922 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 1: 10 records (total 10)
+2026-10-06 18:30:28,924 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 18:30:30,151 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 2: 10 records (total 20)
+2026-10-06 18:30:30,157 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 18:30:31,482 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 3: 10 records (total 30)
+2026-10-06 18:30:31,483 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 18:30:32,404 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 4: 10 records (total 40)
+2026-10-06 18:30:32,405 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 18:30:33,634 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 5: 10 records (total 50)
+2026-10-06 18:30:33,637 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 18:30:34,758 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 6: 10 records (total 60)
+2026-10-06 18:30:34,759 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 18:30:35,721 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 7: 10 records (total 70)
+2026-10-06 18:30:35,723 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 18:30:36,658 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 8: 10 records (total 80)
+2026-10-06 18:30:36,660 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 18:30:37,855 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 9: 10 records (total 90)
+2026-10-06 18:30:37,856 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 18:30:38,961 | INFO    | scrapers.base_scraper | [Quotes to Scrape] Page 10: 10 records (total 100)
+2026-10-06 18:30:38,963 | INFO    | main | Quotes to Scrape: 100 raw records collected
+2026-10-06 18:30:39,075 | WARNING | main | Duplicate removed: 'The Star-Touched Queen' from Books to Scrape
+2026-10-06 18:30:39,339 | INFO    | main | Finished in 1408.2s: collected={'Books to Scrape': 1000, 'Quotes to Scrape': 100} rejected=0 duplicates=1 final=1099
+2026-10-06 18:30:39,339 | INFO    | main | Reconciliation OK: True

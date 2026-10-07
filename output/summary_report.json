@@ -1,0 +1,61 @@
+{
+    "collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "cleaned_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "rejected_total": 0,
+    "rejected_by_reason": {
+        "unknown_source": 0,
+        "missing_name": 0,
+        "invalid_url": 0,
+        "invalid_price": 0,
+        "invalid_rating": 0,
+        "cleaning_error": 0
+    },
+    "duplicates_detected": 1,
+    "final_record_count": 1099,
+    "final_per_source": {
+        "Books to Scrape": 999,
+        "Quotes to Scrape": 100
+    },
+    "start_time": "2026-10-06T12:37:11Z",
+    "end_time": "2026-10-06T13:00:39Z",
+    "duration_seconds": 1408.2,
+    "per_source_details": {
+        "Books to Scrape": {
+            "collected": 1000,
+            "scrape_parse_errors": 0,
+            "pages_fetched": 50,
+            "pages_failed": 0,
+            "cleaned": 1000,
+            "rejected": 0,
+            "duplicates": 1,
+            "final": 999
+        },
+        "Quotes to Scrape": {
+            "collected": 100,
+            "scrape_parse_errors": 0,
+            "pages_fetched": 10,
+            "pages_failed": 0,
+            "cleaned": 100,
+            "rejected": 0,
+            "duplicates": 0,
+            "final": 100
+        }
+    },
+    "failed_sources": [],
+    "settings": {
+        "fetch_book_details": true,
+        "max_pages": null,
+        "delay_seconds": 0.5
+    },
+    "reconciliation": {
+        "rule": "collected - rejected - duplicates = final = rows in final_dataset.csv",
+        "csv_rows": 1099,
+        "ok": true
+    }
+}
